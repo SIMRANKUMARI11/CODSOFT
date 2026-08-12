@@ -44,9 +44,6 @@ CODSOFT/
 
 ---
 
-## Learning Outcome
-- Improved understanding of web page structure and layout
-- Learned how to design user interfaces using CSS
 - Practiced JavaScript for basic functionality and logic
 - Understood how to organize multiple projects in one repository
 
